@@ -68,7 +68,7 @@ A telepítő automatikusan konfigurálja a hálózatot, több csatornát, valami
 - sudo jogosultság
 
 ## 📂 Struktúra
-.
+
 ├── install_irssi.sh  
 ├── uninstall_irssi.sh  
 └── README.md
